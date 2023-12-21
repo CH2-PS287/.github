@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-	<img src="" width="500" />
+	<img src="https://github.com/CH2-PS287/.github/blob/main/profile/Logo.PNG" width="500" />
 	</div>
 	<h3 align="center">Life Lite</h3>
 	<p align="left">
