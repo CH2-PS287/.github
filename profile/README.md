@@ -20,6 +20,49 @@ Bangkit ID|Name|Learning Path|University|LinkedIn
 |C008BSY3208|Jonathan Edmund|Cloud Computing|Universitas Gadjah Mada|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-edmund-kusnadi/)|
 |C596BSY4257|Albi Fajar Ramadhan|Cloud Computing|Universitas Sebelas April|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albifajar/)|
 |A008BSX2110|Kadek Ninda Nandita Putri|Mobile Developer|Universitas Gadjah Mada|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nindanandita/)|
+
+## Theme ⚕️
+Healthcare & Public Health
+## How To Use The App 📱
+### A. Getting Started
+#### Prerequisites
+Android phone and internet connection.
+#### Installation
+Get the app from our [releases page](https://github.com/CH2-PS287/MD_ProgramLiteLife.git).
+#### Register
+Open the app and click register then fill the form.
+### B. Usage
+#### How to detect dental health
+1. Open the app.
+2. Login to your account.
+3. Fill the form (Gender, Age, Height, Wegiht) and your specific situation (allergies, vegetarian, medical history)
+4. Choose your target
+5. You will be shown the profile dashboard
+6. Choose a list of foods that you consume in the morning, afternoon and evening
+7. You will be shown recommended foods based on your calories and nutrition, choose one of the foods you want to consume
+8. You will be shown a description of the food, offered features to cook it yourself (food recipe) or buy it on the market
+9. Select the sports feature, then you will be shown a list of sports based on your excess calories
+10. Select a consultation to speak with a nutritionist
+
+## How You May Replicate Our Steps? 💻
+### A. Prequisites
+ - Android Studio [Flamingo 2022.2.1](https://developer.android.com/studio?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqR3G0l6KmG0n4iqLQJhBWLTtVdLlI1O9FB8LYRhv3tkndHY2NnxCohoCEw0QAvD_BwE&gclsrc=aw.ds).
+ - Gradle JDK [Zulu 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu).
+ - Kotlin / Intellij Idea [Any Version](https://www.jetbrains.com/idea/download/#section=windows).
+
+Notes: Any other version could've worked this in only recommendation.
+
+### B. Steps
+1. Open your **cmd** or **gitbash** on predetermined install location.
+2. Clone repository
+
+   ```bash
+    git clone https://github.com/CH2-PS287/MD_ProgramLiteLife.git
+   ```
+3. Open your project on Android Studio.
+4. Start your emulator or android smartphone.
+5. Click Run "App".
+
 <!--
 
 **Here are some ideas to get you started:**
