@@ -32,7 +32,7 @@ Get the app from our [releases page](https://github.com/CH2-PS287/MD_ProgramLite
 #### Register
 Open the app and click register then fill the form.
 ### B. Usage
-#### How to detect dental health
+#### How to use Life Lite
 1. Open the app.
 2. Login to your account.
 3. Fill the form (Gender, Age, Height, Wegiht) and your specific situation (allergies, vegetarian, medical history)
