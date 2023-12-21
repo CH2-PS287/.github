@@ -2,7 +2,7 @@
 	<div align="center">
 	<img src="https://github.com/CH2-PS287/.github/blob/main/profile/Logo.PNG" width="100" />
 	</div>
-	<h3 align="center">Life Lite</h3>
+	<h3 align="center">Lite Life</h3>
 	<p align="left">
 
 LiteLife was developed in response to the prevalent issue of unhealthy eating habits in Indonesia, leading to rising concerns like obesity, diabetes, and heart disease. The primary goal is to address the lack of awareness regarding daily calorie needs among the population.Unhealthy eating habits in Indonesia contribute to rising health concerns such as obesity, diabetes, and heart disease. According to UNICEF (2018), a significant percentage of the population faces these issues, with 1 in 5 school-age children, 1 in 7 teenagers, and 1 in 3 adults being overweight or obese. A key challenge is the lack of awareness regarding daily calorie needs. To address this, LiteLife, an intuitive calorie logging app, was developed. Going beyond tracking, LiteLife calculates daily calorie needs and provides personalized food and exercise recommendations. By simplifying calorie management, LiteLife aims to empower Indonesians to make healthier choices, reduce chronic disease risks, and cultivate enduring well-being.
