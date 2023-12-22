@@ -22,7 +22,7 @@ Bangkit ID|Name|Learning Path|University|LinkedIn
 |A008BSX2110|Kadek Ninda Nandita Putri|Mobile Developer|Universitas Gadjah Mada|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nindanandita/)|
 
 ## Theme ⚕️
-Healthcare & Public Health
+Human Healthcare
 ## How To Use The App 📱
 ### A. Getting Started
 #### Prerequisites
